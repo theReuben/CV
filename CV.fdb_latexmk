@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1541109589 "CV.tex" "/home/reuben/github/CV/CV.pdf" "CV" 1541166735
+["pdflatex"] 1541109589 "CV.tex" "/home/reuben/github/CV/CV.pdf" "CV" 1541166946
   "/etc/texmf/web2c/texmf.cnf" 1513446332 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/reuben/github/CV/CV.aux" 1541109590 8 a94a2480d3289e625eea47cd1b285758 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -34,8 +34,8 @@
   "CV.aux" 1541109590 8 a94a2480d3289e625eea47cd1b285758 ""
   "CV.tex" 1541109589 3313 4a88bf1df4ce41896ed0283b11de0342 ""
   (generated)
+  "/home/reuben/github/CV/CV.log"
+  "/home/reuben/github/CV/CV.pdf"
   "CV.log"
   "CV.pdf"
   "CV.aux"
-  "/home/reuben/github/CV/CV.log"
-  "/home/reuben/github/CV/CV.pdf"
