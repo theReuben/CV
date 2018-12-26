@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  1 NOV 2018 21:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  26 DEC 2018 20:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -126,7 +126,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  24i,6n,32p,348b,201s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /home/reuben/github/CV/CV.pdf (1 page, 55880 bytes).
+Output written on /home/reuben/github/CV/CV.pdf (1 page, 55968 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
